@@ -1,0 +1,22 @@
+{
+  "name": "wallboard",
+  "version": "1.0.0",
+  "description": "Wallboard",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ilkerispir/Wallboard.git"
+  },
+  "author": "Ilker Ispir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ilkerispir/Wallboard/issues"
+  },
+  "homepage": "https://github.com/ilkerispir/Wallboard#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
